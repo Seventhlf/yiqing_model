@@ -17,6 +17,10 @@
 -People类：用来模拟每个人的情况，其中包括所处坐标、个人状态、病毒潜伏期等。个人状态分为易感者1、感染者2、死亡者3、住院隔离者4、恢复者0。模拟人员移动情况，使用rand.nextGaussian()生成平均值为0的double类随机数，加上坐标值来模拟移动后的坐标；
 -Ganran类：用来模拟每天人群移动后的疫情变化情况，判断易感者是否染病、感染者是否恢复或住院或死亡等。包括感染率为b，恢复率为c，死亡率为d，出门率为e。使用rand.nextDouble()生成0.0-1.0之间的double类随机数，若落在0-b*  e之间则感染且易感者与感染者距离小于6，若落在0-c则感染者恢复，若落在0-d则感染者死亡。潜伏期递减为0时入院，入院后不感染他人。
 
+## 运行结果示例
+![输入初始条件](https://github.com/Seventhlf/yiqing_model/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E7%A4%BA%E4%BE%8B/%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1696.png)
+![运行过程中截图](https://github.com/Seventhlf/yiqing_model/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E7%A4%BA%E4%BE%8B/%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1698.png)
+![运行结束后的输出](https://github.com/Seventhlf/yiqing_model/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E7%A4%BA%E4%BE%8B/%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1700.png)
 
 ## 结果分析：
 结果分为五类：无任何防疫举措、仅佩戴口罩、仅限制出行、仅增设病床、采取所有防治措施。每一类分别运行五次，取平均值。数据如下（粗体为平均值）：
