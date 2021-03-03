@@ -23,8 +23,8 @@
 
 <table width="480" border="0" cellpadding="0" cellspacing="0" style='width:288.00pt;border-collapse:collapse;table-layout:fixed;'>
    <col width="80" span="6" style='width:48.00pt;'/>
-   <tr height="49.25" style='height:29.55pt;'>
-    <td class="xl65" height="49.25" width="80" style='height:29.55pt;width:48.00pt;' x:str>共经历天数</td>
+   <tr height="73.25" style='height:43.95pt;'>
+    <td class="xl65" height="73.25" width="80" style='height:43.95pt;width:48.00pt;' x:str>共经历天数</td>
     <td class="xl66" width="80" style='width:48.00pt;' x:str>累计确诊人数</td>
     <td class="xl66" width="80" style='width:48.00pt;' x:str>未感染人数</td>
     <td class="xl66" width="80" style='width:48.00pt;' x:str>感染后恢复人数</td>
@@ -35,256 +35,256 @@
     <td class="xl67" height="26.50" colspan="6" style='height:15.90pt;border-right:1.0pt solid windowtext;border-bottom:1.0pt solid windowtext;' x:str>无任何防疫举措</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>250</td>
-    <td class="xl66" x:num>4238</td>
-    <td class="xl66" x:num>762</td>
-    <td class="xl66" x:num>3516</td>
-    <td class="xl66" x:num>722</td>
-    <td class="xl66" x:num>214</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>250</td>
+    <td class="xl70" x:num>4238</td>
+    <td class="xl70" x:num>762</td>
+    <td class="xl70" x:num>3516</td>
+    <td class="xl70" x:num>722</td>
+    <td class="xl70" x:num>214</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>272</td>
-    <td class="xl69" x:num>4472</td>
-    <td class="xl69" x:num>528</td>
-    <td class="xl69" x:num>3757</td>
-    <td class="xl69" x:num>715</td>
-    <td class="xl69" x:num>246</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>272</td>
+    <td class="xl71" x:num>4472</td>
+    <td class="xl71" x:num>528</td>
+    <td class="xl71" x:num>3757</td>
+    <td class="xl71" x:num>715</td>
+    <td class="xl71" x:num>246</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>329</td>
-    <td class="xl69" x:num>4275</td>
-    <td class="xl69" x:num>725</td>
-    <td class="xl69" x:num>3581</td>
-    <td class="xl69" x:num>694</td>
-    <td class="xl69" x:num>296</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>329</td>
+    <td class="xl71" x:num>4275</td>
+    <td class="xl71" x:num>725</td>
+    <td class="xl71" x:num>3581</td>
+    <td class="xl71" x:num>694</td>
+    <td class="xl71" x:num>296</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>290</td>
-    <td class="xl69" x:num>4415</td>
-    <td class="xl69" x:num>585</td>
-    <td class="xl69" x:num>3724</td>
-    <td class="xl69" x:num>691</td>
-    <td class="xl69" x:num>257</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>290</td>
+    <td class="xl71" x:num>4415</td>
+    <td class="xl71" x:num>585</td>
+    <td class="xl71" x:num>3724</td>
+    <td class="xl71" x:num>691</td>
+    <td class="xl71" x:num>257</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>277</td>
-    <td class="xl69" x:num>4470</td>
-    <td class="xl69" x:num>530</td>
-    <td class="xl69" x:num>3758</td>
-    <td class="xl69" x:num>712</td>
-    <td class="xl69" x:num>228</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>277</td>
+    <td class="xl71" x:num>4470</td>
+    <td class="xl71" x:num>530</td>
+    <td class="xl71" x:num>3758</td>
+    <td class="xl71" x:num>712</td>
+    <td class="xl71" x:num>228</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>283.6</td>
-    <td class="xl69" x:num>4374</td>
-    <td class="xl69" x:num>626</td>
-    <td class="xl69" x:num>3667.2</td>
-    <td class="xl69" x:num>706.8</td>
-    <td class="xl69" x:num>248.2</td>
+    <td class="xl72" height="25.25" style='height:15.15pt;' x:num>283.6</td>
+    <td class="xl73" x:num>4374</td>
+    <td class="xl73" x:num>626</td>
+    <td class="xl73" x:num>3667.2</td>
+    <td class="xl73" x:num>706.8</td>
+    <td class="xl73" x:num>248.2</td>
    </tr>
    <tr height="26.50" style='height:15.90pt;mso-height-source:userset;mso-height-alt:318;'>
     <td class="xl67" height="26.50" colspan="6" style='height:15.90pt;border-right:1.0pt solid windowtext;border-bottom:1.0pt solid windowtext;' x:str>仅戴口罩</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>84</td>
-    <td class="xl66" x:num>82</td>
-    <td class="xl66" x:num>4918</td>
-    <td class="xl66" x:num>76</td>
-    <td class="xl66" x:num>6</td>
-    <td class="xl66" x:num>29</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>84</td>
+    <td class="xl70" x:num>82</td>
+    <td class="xl70" x:num>4918</td>
+    <td class="xl70" x:num>76</td>
+    <td class="xl70" x:num>6</td>
+    <td class="xl70" x:num>29</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>69</td>
-    <td class="xl69" x:num>70</td>
-    <td class="xl69" x:num>4930</td>
-    <td class="xl69" x:num>64</td>
-    <td class="xl69" x:num>6</td>
-    <td class="xl69" x:num>33</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>69</td>
+    <td class="xl71" x:num>70</td>
+    <td class="xl71" x:num>4930</td>
+    <td class="xl71" x:num>64</td>
+    <td class="xl71" x:num>6</td>
+    <td class="xl71" x:num>33</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>69</td>
-    <td class="xl69" x:num>59</td>
-    <td class="xl69" x:num>4941</td>
-    <td class="xl69" x:num>53</td>
-    <td class="xl69" x:num>6</td>
-    <td class="xl69" x:num>47</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>69</td>
+    <td class="xl71" x:num>59</td>
+    <td class="xl71" x:num>4941</td>
+    <td class="xl71" x:num>53</td>
+    <td class="xl71" x:num>6</td>
+    <td class="xl71" x:num>47</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>51</td>
-    <td class="xl69" x:num>64</td>
-    <td class="xl69" x:num>4936</td>
-    <td class="xl69" x:num>59</td>
-    <td class="xl69" x:num>5</td>
-    <td class="xl69" x:num>32</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>51</td>
+    <td class="xl71" x:num>64</td>
+    <td class="xl71" x:num>4936</td>
+    <td class="xl71" x:num>59</td>
+    <td class="xl71" x:num>5</td>
+    <td class="xl71" x:num>32</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>49</td>
-    <td class="xl69" x:num>31</td>
-    <td class="xl69" x:num>4969</td>
-    <td class="xl69" x:num>27</td>
-    <td class="xl69" x:num>4</td>
-    <td class="xl69" x:num>28</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>49</td>
+    <td class="xl71" x:num>31</td>
+    <td class="xl71" x:num>4969</td>
+    <td class="xl71" x:num>27</td>
+    <td class="xl71" x:num>4</td>
+    <td class="xl71" x:num>28</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>64.4</td>
-    <td class="xl69" x:num>61.2</td>
-    <td class="xl69" x:num>4938.8</td>
-    <td class="xl69" x:num>55.8</td>
-    <td class="xl69" x:num>5.4</td>
-    <td class="xl69" x:num>33.8</td>
+    <td class="xl72" height="25.25" style='height:15.15pt;' x:num>64.4</td>
+    <td class="xl73" x:num>61.2</td>
+    <td class="xl73" x:num>4938.8</td>
+    <td class="xl73" x:num>55.8</td>
+    <td class="xl73" x:num>5.4</td>
+    <td class="xl73" x:num>33.8</td>
    </tr>
    <tr height="26.50" style='height:15.90pt;mso-height-source:userset;mso-height-alt:318;'>
     <td class="xl67" height="26.50" colspan="6" style='height:15.90pt;border-right:1.0pt solid windowtext;border-bottom:1.0pt solid windowtext;' x:str>仅限制出行</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>68</td>
-    <td class="xl66" x:num>110</td>
-    <td class="xl66" x:num>4890</td>
-    <td class="xl66" x:num>100</td>
-    <td class="xl66" x:num>10</td>
-    <td class="xl66" x:num>38</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>68</td>
+    <td class="xl70" x:num>110</td>
+    <td class="xl70" x:num>4890</td>
+    <td class="xl70" x:num>100</td>
+    <td class="xl70" x:num>10</td>
+    <td class="xl70" x:num>38</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>67</td>
-    <td class="xl69" x:num>69</td>
-    <td class="xl69" x:num>4931</td>
-    <td class="xl69" x:num>64</td>
-    <td class="xl69" x:num>5</td>
-    <td class="xl69" x:num>42</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>67</td>
+    <td class="xl71" x:num>69</td>
+    <td class="xl71" x:num>4931</td>
+    <td class="xl71" x:num>64</td>
+    <td class="xl71" x:num>5</td>
+    <td class="xl71" x:num>42</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>108</td>
-    <td class="xl69" x:num>138</td>
-    <td class="xl69" x:num>4862</td>
-    <td class="xl69" x:num>126</td>
-    <td class="xl69" x:num>12</td>
-    <td class="xl69" x:num>36</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>108</td>
+    <td class="xl71" x:num>138</td>
+    <td class="xl71" x:num>4862</td>
+    <td class="xl71" x:num>126</td>
+    <td class="xl71" x:num>12</td>
+    <td class="xl71" x:num>36</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>131</td>
-    <td class="xl69" x:num>87</td>
-    <td class="xl69" x:num>4913</td>
-    <td class="xl69" x:num>79</td>
-    <td class="xl69" x:num>8</td>
-    <td class="xl69" x:num>46</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>131</td>
+    <td class="xl71" x:num>87</td>
+    <td class="xl71" x:num>4913</td>
+    <td class="xl71" x:num>79</td>
+    <td class="xl71" x:num>8</td>
+    <td class="xl71" x:num>46</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>103</td>
-    <td class="xl69" x:num>134</td>
-    <td class="xl69" x:num>4866</td>
-    <td class="xl69" x:num>117</td>
-    <td class="xl69" x:num>17</td>
-    <td class="xl69" x:num>69</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>103</td>
+    <td class="xl71" x:num>134</td>
+    <td class="xl71" x:num>4866</td>
+    <td class="xl71" x:num>117</td>
+    <td class="xl71" x:num>17</td>
+    <td class="xl71" x:num>69</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>95.4</td>
-    <td class="xl69" x:num>107.6</td>
-    <td class="xl69" x:num>4892.4</td>
-    <td class="xl69" x:num>97.2</td>
-    <td class="xl69" x:num>10.4</td>
-    <td class="xl69" x:num>46.2</td>
+    <td class="xl74" height="25.25" style='height:15.15pt;' x:num>95.4</td>
+    <td class="xl75" x:num>107.6</td>
+    <td class="xl75" x:num>4892.4</td>
+    <td class="xl75" x:num>97.2</td>
+    <td class="xl75" x:num>10.4</td>
+    <td class="xl75" x:num>46.2</td>
    </tr>
    <tr height="26.50" style='height:15.90pt;mso-height-source:userset;mso-height-alt:318;'>
     <td class="xl67" height="26.50" colspan="6" style='height:15.90pt;border-right:1.0pt solid windowtext;border-bottom:1.0pt solid windowtext;' x:str>仅增设病床</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>116</td>
-    <td class="xl66" x:num>188</td>
-    <td class="xl66" x:num>4812</td>
-    <td class="xl66" x:num>169</td>
-    <td class="xl66" x:num>19</td>
-    <td class="xl66" x:num>51</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>116</td>
+    <td class="xl70" x:num>188</td>
+    <td class="xl70" x:num>4812</td>
+    <td class="xl70" x:num>169</td>
+    <td class="xl70" x:num>19</td>
+    <td class="xl70" x:num>51</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>113</td>
-    <td class="xl69" x:num>405</td>
-    <td class="xl69" x:num>4595</td>
-    <td class="xl69" x:num>369</td>
-    <td class="xl69" x:num>36</td>
-    <td class="xl69" x:num>88</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>113</td>
+    <td class="xl71" x:num>405</td>
+    <td class="xl71" x:num>4595</td>
+    <td class="xl71" x:num>369</td>
+    <td class="xl71" x:num>36</td>
+    <td class="xl71" x:num>88</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>178</td>
-    <td class="xl69" x:num>527</td>
-    <td class="xl69" x:num>4473</td>
-    <td class="xl69" x:num>468</td>
-    <td class="xl69" x:num>59</td>
-    <td class="xl69" x:num>142</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>178</td>
+    <td class="xl71" x:num>527</td>
+    <td class="xl71" x:num>4473</td>
+    <td class="xl71" x:num>468</td>
+    <td class="xl71" x:num>59</td>
+    <td class="xl71" x:num>142</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>99</td>
-    <td class="xl69" x:num>254</td>
-    <td class="xl69" x:num>4746</td>
-    <td class="xl69" x:num>230</td>
-    <td class="xl69" x:num>24</td>
-    <td class="xl69" x:num>85</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>99</td>
+    <td class="xl71" x:num>254</td>
+    <td class="xl71" x:num>4746</td>
+    <td class="xl71" x:num>230</td>
+    <td class="xl71" x:num>24</td>
+    <td class="xl71" x:num>85</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>122</td>
-    <td class="xl69" x:num>851</td>
-    <td class="xl69" x:num>4149</td>
-    <td class="xl69" x:num>768</td>
-    <td class="xl69" x:num>83</td>
-    <td class="xl69" x:num>97</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>122</td>
+    <td class="xl71" x:num>851</td>
+    <td class="xl71" x:num>4149</td>
+    <td class="xl71" x:num>768</td>
+    <td class="xl71" x:num>83</td>
+    <td class="xl71" x:num>97</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>125.6</td>
-    <td class="xl69" x:num>445</td>
-    <td class="xl69" x:num>4555</td>
-    <td class="xl69" x:num>400.8</td>
-    <td class="xl69" x:num>44.2</td>
-    <td class="xl69" x:num>92.6</td>
+    <td class="xl74" height="25.25" style='height:15.15pt;' x:num>125.6</td>
+    <td class="xl75" x:num>445</td>
+    <td class="xl75" x:num>4555</td>
+    <td class="xl75" x:num>400.8</td>
+    <td class="xl75" x:num>44.2</td>
+    <td class="xl75" x:num>92.6</td>
    </tr>
    <tr height="26.50" style='height:15.90pt;mso-height-source:userset;mso-height-alt:318;'>
     <td class="xl67" height="26.50" colspan="6" style='height:15.90pt;border-right:1.0pt solid windowtext;border-bottom:1.0pt solid windowtext;' x:str>戴口罩、限制出行、增设病床</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>45</td>
-    <td class="xl66" x:num>31</td>
-    <td class="xl66" x:num>4969</td>
-    <td class="xl66" x:num>29</td>
-    <td class="xl66" x:num>2</td>
-    <td class="xl66" x:num>29</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>45</td>
+    <td class="xl70" x:num>31</td>
+    <td class="xl70" x:num>4969</td>
+    <td class="xl70" x:num>29</td>
+    <td class="xl70" x:num>2</td>
+    <td class="xl70" x:num>29</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>58</td>
-    <td class="xl69" x:num>31</td>
-    <td class="xl69" x:num>4969</td>
-    <td class="xl69" x:num>30</td>
-    <td class="xl69" x:num>1</td>
-    <td class="xl69" x:num>28</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>58</td>
+    <td class="xl71" x:num>31</td>
+    <td class="xl71" x:num>4969</td>
+    <td class="xl71" x:num>30</td>
+    <td class="xl71" x:num>1</td>
+    <td class="xl71" x:num>28</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>47</td>
-    <td class="xl69" x:num>38</td>
-    <td class="xl69" x:num>4962</td>
-    <td class="xl69" x:num>34</td>
-    <td class="xl69" x:num>4</td>
-    <td class="xl69" x:num>32</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>47</td>
+    <td class="xl71" x:num>38</td>
+    <td class="xl71" x:num>4962</td>
+    <td class="xl71" x:num>34</td>
+    <td class="xl71" x:num>4</td>
+    <td class="xl71" x:num>32</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>64</td>
-    <td class="xl69" x:num>31</td>
-    <td class="xl69" x:num>4969</td>
-    <td class="xl69" x:num>24</td>
-    <td class="xl69" x:num>7</td>
-    <td class="xl69" x:num>17</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>64</td>
+    <td class="xl71" x:num>31</td>
+    <td class="xl71" x:num>4969</td>
+    <td class="xl71" x:num>24</td>
+    <td class="xl71" x:num>7</td>
+    <td class="xl71" x:num>17</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>41</td>
-    <td class="xl69" x:num>21</td>
-    <td class="xl69" x:num>4979</td>
-    <td class="xl69" x:num>18</td>
-    <td class="xl69" x:num>3</td>
-    <td class="xl69" x:num>23</td>
+    <td class="xl69" height="25.25" style='height:15.15pt;' x:num>41</td>
+    <td class="xl71" x:num>21</td>
+    <td class="xl71" x:num>4979</td>
+    <td class="xl71" x:num>18</td>
+    <td class="xl71" x:num>3</td>
+    <td class="xl71" x:num>23</td>
    </tr>
    <tr height="25.25" style='height:15.15pt;'>
-    <td class="xl68" height="25.25" style='height:15.15pt;' x:num>51</td>
-    <td class="xl69" x:num>30.4</td>
-    <td class="xl69" x:num>4969.6</td>
-    <td class="xl69" x:num>27</td>
-    <td class="xl69" x:num>3.4</td>
-    <td class="xl69" x:num>25.8</td>
+    <td class="xl72" height="25.25" style='height:15.15pt;' x:num>51</td>
+    <td class="xl73" x:num>30.4</td>
+    <td class="xl73" x:num>4969.6</td>
+    <td class="xl73" x:num>27</td>
+    <td class="xl73" x:num>3.4</td>
+    <td class="xl73" x:num>25.8</td>
    </tr>
    <![if supportMisalignedColumns]>
     <tr width="0" style='display:none;'/>
